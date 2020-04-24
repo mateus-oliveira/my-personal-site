@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0840bed4.chunk.css",
+    "main.js": "/static/js/main.f44c4a77.chunk.js",
+    "main.js.map": "/static/js/main.f44c4a77.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0254e6ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0254e6ee.js.map",
+    "static/js/2.db03acf6.chunk.js": "/static/js/2.db03acf6.chunk.js",
+    "static/js/2.db03acf6.chunk.js.map": "/static/js/2.db03acf6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.22e32119be92ae9def243fea7be8b86a.js": "/precache-manifest.22e32119be92ae9def243fea7be8b86a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0840bed4.chunk.css.map": "/static/css/main.0840bed4.chunk.css.map",
+    "static/js/2.db03acf6.chunk.js.LICENSE.txt": "/static/js/2.db03acf6.chunk.js.LICENSE.txt",
+    "static/media/angular.png": "/static/media/angular.428adf0c.png",
+    "static/media/computer.jpeg": "/static/media/computer.958221ab.jpeg",
+    "static/media/htmlcssjs.png": "/static/media/htmlcssjs.e5cdb4d8.png",
+    "static/media/mateus.jpg": "/static/media/mateus.8ad4f913.jpg",
+    "static/media/node.png": "/static/media/node.d3929e00.png",
+    "static/media/python.png": "/static/media/python.147c6e47.png",
+    "static/media/react.png": "/static/media/react.20ea44b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0254e6ee.js",
+    "static/js/2.db03acf6.chunk.js",
+    "static/css/main.0840bed4.chunk.css",
+    "static/js/main.f44c4a77.chunk.js"
+  ]
+}
